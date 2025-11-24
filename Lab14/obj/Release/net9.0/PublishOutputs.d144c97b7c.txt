@@ -1,0 +1,9 @@
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.exe
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.dll
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.deps.json
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.pdb
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lenovo\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
